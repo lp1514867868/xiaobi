@@ -1,0 +1,345 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header {
+  width: 100%;
+  height: 4rem;
+  border-bottom: 1px solid; }
+  header h3{
+  	float: left;
+  	margin-top: 1.2rem;
+  	margin-left: -2.5rem;
+  	color: #000;
+  }
+  header .logo {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .logo img {
+      width: 6.86rem;
+      height: 2.8rem;
+      margin-top: 0.6rem;
+      margin-left: 0.64rem; }
+  header .tp {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .tp ul {
+      width: 100%;
+      height: 100%;
+      list-style: none; }
+      header .tp ul li {
+        width: 20.3333%;
+        height: 100%;
+        float: right;
+        text-align: center; }
+        header .tp ul li span {
+          font-size: 1.1rem;
+          color: #999999; }
+        header .tp ul li p {
+          font-size: 0.7rem;
+          color: #999999; }
+        header .tp ul li .p1 {
+          margin-top: -1.7rem; }
+        #div1{
+        	width: 100%;
+        	height: 8rem;
+        	float: left;
+        	margin-top: -1.5rem;
+        }
+        #div1 img {
+        	width: 6rem;
+        	height: 6rem;
+        	float: left;
+        	margin-top: 1rem;
+        	margin-left: 0.56rem;
+        }
+        #div1 h3{
+        	font-size: 18px;
+        	float: left;
+        	margin-top: 0rem;
+        	margin-left: 0.68rem;
+        }
+        #div1 #div1a {
+        	width: 1.9rem;
+        	height: 0.9rem;
+        	background-color: #33cc99;
+        	float: left;
+        	margin-left: 0.68rem;
+        	margin-top: 0.3rem;
+        }
+        #div1 #div1a p {
+        	font-size: 12px;
+        	color: #fff;
+        	text-align: center;
+        }
+        #div1 h4{
+        	float: left;
+        	margin-left: -4.6rem;
+        	margin-top: 1.5rem;
+        }
+        #div1c .p1{
+        	color: #333;
+        	font-size: 14px;
+        	float: left;
+        	margin-left: -9.2rem;
+        	margin-top: 3.5rem;
+        }
+        #div1c span{
+        	font-size: 14px;
+        	color: #999;
+        	float: left;
+        	margin-left: 0.68rem;
+        	margin-top: 0.625rem;
+        }
+        #div1d .p1{
+        	color: #333;
+        	font-size: 14px;
+        	float: left;
+        	margin-left: -13rem;
+        	margin-top: 2rem;
+        }
+        #div1d span{
+        	font-size: 14px;
+        	color: #999;
+        	float: left;
+        	margin-left: 11.5rem;
+        	margin-top: -2.1rem;
+        }
+        #div2> ul {
+            width: 86%;
+            height: 3.125rem;
+            display: flex;
+            justify-content: space-around;
+            list-style: none;
+            text-align: center;
+            background: #fff;
+            padding-top: 0rem;
+            float: left;
+            margin-left: 7%;
+        }
+        #div2 > ul > li {
+           width: 33.33%;
+           margin-top: 1.5rem;
+        }
+        #div2 > ul > li img {
+        	width: 3.28rem;
+        	height: 3.28rem;
+        }
+        #div2 > ul > li .p1{
+        	color: #ff9966;
+        }
+        #div2 > ul > li .p2{
+        	color: #ff6699;
+        }
+        #div2 > ul > li .p3{
+        	color: #ff3366;
+        }
+.sz {
+  height: 8.125rem;
+  float: left;
+  margin-top: 1.5rem; }
+  .sz div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 3.5rem; }
+    .sz div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+    #div3{
+    	width: 100%;
+    	height: 0.5rem;
+    	background-color: #F7F7F7;
+    	float: left;
+    	margin-top: 4.6rem;
+    }
+    #div4{
+    	width: 100%;
+    	height: 2.18rem;
+    }
+    #div4a{
+    	width: 0.2rem;
+    	height: 1.2rem;
+    	background-color: #39C894;
+    	float: left;
+    	margin-left: 1rem;
+    	margin-top: 1rem;
+    }
+    #div4 h3 {
+    	float: left;
+    	margin-left: 1rem;
+    	margin-top: 1rem;
+    }
+    #div4 p {
+    	font-size: 12px;
+    	color: #999;
+    	float: right;
+    	margin-right: 0.75rem;
+    	margin-top: 1.2rem;
+    }
+    #div5{
+        	width: 100%;
+        	height: 42rem;
+        	margin-top: 1rem;
+        	float: left;
+        	margin-top: 1rem;
+        }
+        #div5 #div5a {
+        	width: 11rem;
+        	height: 10.5rem;
+        	background-color: white;
+        	float: left;
+        	margin-left: 4%;
+        }
+        #div5 #div5a img {
+        	width: 11rem;
+        	height: 7.5rem;
+        }
+        #div5 #div5a h4 {
+        	font-size: 0.8rem;
+        	color: #000;
+        	text-align: center;
+        	padding-top: 0.3rem;
+        }
+        #div5 #div5a p{
+        	font-size: 0.625rem;
+        	text-align: center;
+        	padding-top: 0.2rem;
+        }
+        #div5 #div5b {
+        	width: 11rem;
+        	height: 10.5rem;
+        	background-color: white;
+        	float: left;
+        	margin-left: 4%;
+        }
+        #div5 #div5b img {
+        	width: 11rem;
+        	height: 7.5rem;
+        }
+        #div5 #div5b h4 {
+        	font-size: 0.8rem;
+        	color: #000;
+        	text-align: center;
+        	padding-top: 0.3rem;
+        }
+        #div5 #div5b p{
+        	font-size: 0.625rem;
+        	text-align: center;
+        	padding-top: 0.2rem;
+        }
+        #div6{
+    	width: 100%;
+    	height: 0.5rem;
+    	background-color: #F7F7F7;
+    	float: left;
+    	margin-top: 1rem;
+    }
+.znr6 {
+  height: 10rem; }
+  .znr6 div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 1rem; }
+    .znr6 div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+
+footer {
+  width: 100%;
+  height: 6rem;
+  margin-top: 0.8rem;
+  text-align: center;
+  padding-top: 1rem; }
+  footer div {
+    width: 100%;
+    height: 2rem;
+    float: left;
+    margin-top: 1rem; }
+    footer div p {
+      float: left;
+      margin-left: 5.5rem;
+      color: #39C893;
+      margin-top: 0.1rem; }
+    footer div span {
+      font-size: 1.1rem;
+      float: left; }
+  footer ul {
+    width: 100%;
+    height: 4rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 1.1rem; }
+
+.boxx {
+  width: 100%;
+  margin-top: 0.8rem; }
+  .boxx .p1 {
+    float: left;
+    height: 2rem;
+    line-height: 2rem;
+    border-left: 0.3rem solid #3CC995;
+    font-size: 1.3rem;
+    letter-spacing: 0.3rem;
+    margin-left: 1rem;
+    text-align: center;
+    width: 7rem; }
+  .boxx span {
+    margin-left: 0.2rem;
+    line-height: 2.4rem;
+    color: #999;
+    font-size: 0.8rem; }
+
+.mb {
+  width: 100%;
+  height: 6rem;
+  background: black;
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9); }
+  .mb .img1 {
+    position: absolute;
+    top: 0rem;
+    left: 0;
+    width: 2.5rem;
+    height: 2.5rem; }
+  .mb .img2 {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 2rem;
+    margin-top: 1rem; }
+  .mb .p1 {
+    color: #eed215;
+    position: absolute;
+    top: 1.5rem;
+    left: 6rem;
+    font-size: 1.2rem; }
+  .mb .p2 {
+    color: white;
+    position: absolute;
+    top: 2.9rem;
+    left: 5rem;
+    font-size: 1.3rem; }
+  .mb button {
+    width: 6rem;
+    height: 2rem;
+    background: #feb605;
+    border: none;
+    border-radius: 0.8rem;
+    position: absolute;
+    top: 2rem;
+    right: 0.5rem;
+    color: white;
+    font-size: 0.7rem; }       

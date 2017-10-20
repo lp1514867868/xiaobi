@@ -1,0 +1,189 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header {
+  width: 100%;
+  height: 4rem;
+  border-bottom: 1px solid; }
+  header h3{
+  	float: left;
+  	margin-top: 1.2rem;
+  	margin-left: -2.5rem;
+  	color: #000;
+  }
+  header .logo {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .logo img {
+      width: 6.86rem;
+      height: 2.8rem;
+      margin-top: 0.6rem;
+      margin-left: 0.64rem; }
+  header .tp {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .tp ul {
+      width: 100%;
+      height: 100%;
+      list-style: none; }
+      header .tp ul li {
+        width: 20.3333%;
+        height: 100%;
+        float: right;
+        text-align: center; }
+        header .tp ul li span {
+          font-size: 1.1rem;
+          color: #999999; }
+        header .tp ul li p {
+          font-size: 0.7rem;
+          color: #999999; }
+        header .tp ul li .p1 {
+          margin-top: -1.7rem; }
+        img{
+        	width: 100%;
+        	margin-top: -2.6rem;
+        }
+        #div1> ul {
+            width: 100%;
+            height: 3.125rem;
+            display: flex;
+            justify-content: space-around;
+            list-style: none;
+            text-align: center;
+            background: #fff;
+            padding-top: 3.5rem;
+            margin: 0;
+        }
+        #div1 > ul > li {
+           width: 50%;
+           margin-top: 0rem;
+        }
+        #div1  ul li img {
+        	width: 3.75rem;
+        	height: 3.75rem;
+        }
+        #div2{
+        	width: 100%;
+        	height: 12rem;
+        	background-color: #F7F7F7;
+        	float: left;
+        	margin-top: 2rem;
+        }
+        #div2 img {
+        	width: 8.28rem;
+        	height: 8.28rem;
+        	float: left;
+        	margin-left: 8rem;
+        	margin-top: 1rem;
+        }
+        #div2 p {
+        	float: left;
+        	margin-left: 5.5rem;
+        	margin-top: 0.5rem;
+        }
+.znr6 {
+  height: 12rem; }
+  .znr6 div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 5rem; }
+    .znr6 div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+footer {
+  width: 100%;
+  height: 6rem;
+  margin-top: 0.8rem;
+  text-align: center;
+  border-top: 0.7rem solid #f4f4f4;
+  padding-top: 1rem; }
+  footer div {
+    width: 100%;
+    height: 2rem;
+    float: left;
+    margin-top: 8rem; }
+    footer div p {
+      float: left;
+      margin-left: 5.5rem;
+      color: #39C893;
+      margin-top: 0.1rem; }
+    footer div span {
+      font-size: 1.1rem;
+      float: left; }
+  footer ul {
+    width: 100%;
+    height: 4rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 1.1rem; }
+
+.boxx {
+  width: 100%;
+  margin-top: 0.8rem; }
+  .boxx .p1 {
+    float: left;
+    height: 2rem;
+    line-height: 2rem;
+    border-left: 0.3rem solid #3CC995;
+    font-size: 1.3rem;
+    letter-spacing: 0.3rem;
+    margin-left: 1rem;
+    text-align: center;
+    width: 7rem; }
+  .boxx span {
+    margin-left: 0.2rem;
+    line-height: 2.4rem;
+    color: #999;
+    font-size: 0.8rem; }
+
+.mb {
+  width: 100%;
+  height: 6rem;
+  background: black;
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9); }
+  .mb .img1 {
+    position: absolute;
+    top: 2.5rem;
+    left: 0;
+    width: 2.5rem;
+    height: 2.5rem; }
+  .mb .img2 {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 2rem;
+    margin-top: 1rem; }
+  .mb .p1 {
+    color: #eed215;
+    position: absolute;
+    top: 1.5rem;
+    left: 6rem;
+    font-size: 1.2rem; }
+  .mb .p2 {
+    color: white;
+    position: absolute;
+    top: 2.9rem;
+    left: 5rem;
+    font-size: 1.3rem; }
+  .mb button {
+    width: 6rem;
+    height: 2rem;
+    background: #feb605;
+    border: none;
+    border-radius: 0.8rem;
+    position: absolute;
+    top: 2rem;
+    right: 0.5rem;
+    color: white;
+    font-size: 0.7rem; }

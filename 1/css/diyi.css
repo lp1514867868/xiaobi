@@ -1,0 +1,402 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+header {
+  width: 100%;
+  height: 4rem; }
+  header .logo {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .logo img {
+      width: 6.86rem;
+      height: 2.8rem;
+      margin-top: 0.6rem;
+      margin-left: 0.64rem; }
+  header .tp {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .tp ul {
+      width: 100%;
+      height: 100%;
+      list-style: none; }
+      header .tp ul li {
+        width: 20.3333%;
+        height: 100%;
+        float: right;
+        text-align: center; }
+        header .tp ul li span {
+          font-size: 1.1rem;
+          color: #999999; }
+        header .tp ul li p {
+          font-size: 0.7rem;
+          color: #999999; }
+        header .tp ul li .p1 {
+          margin-top: 0.85rem; }
+
+.lubo {
+  width: 100%;
+  height: 9rem; }
+  .lubo img {
+    width: 100%;
+    height: 100%; }
+
+.fl {
+  width: 100%;
+  height: 18rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .fl ul {
+    width: 100%;
+    height: 100%; }
+    .fl ul li {
+      width: 25%;
+      height: 50%;
+      float: left;
+      text-align: center; }
+      .fl ul li div {
+        width: 4rem;
+        height: 4rem;
+        background: #39C893;
+        border-radius: 50%;
+        font-size: 2.5rem;
+        text-align: center;
+        line-height: 4rem;
+        color: white;
+        margin-top: 1.3rem;
+        margin-left: 1rem; }
+      .fl ul li p {
+        color: #333;
+        font-size: 1rem;
+        margin-top: 0.5rem; }
+
+.znrboxx {
+  height: 25rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr .znr-1 {
+    width: 100%;
+    height: 15rem;
+    text-align: center;
+    margin-top: 1rem; }
+    .znr .znr-1 img {
+      width: 100%;
+      height: 100%; }
+  .znr .znr-ul {
+    width: 100%;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .znr .znr-ul li {
+      width: 0.5rem;
+      height: 0.5rem;
+      float: left;
+      background: white;
+      border-radius: 50%;
+      margin-left: 1rem;
+      margin-top: 1rem; }
+  .znr .znr-ul2 {
+    width: 100%;
+    height: 3rem;
+    margin-top: 0.5rem; }
+    .znr .znr-ul2 li {
+      height: 100%;
+      float: left;
+      font-size: 1rem;
+      line-height: 3rem; }
+      .znr .znr-ul2 li div {
+        font-size: 1.3rem;
+        float: left;
+        color: #38C993;
+        margin-top: 0.2rem;
+        margin-left: 0.3rem; }
+      .znr .znr-ul2 li p {
+        float: left;
+        margin-left: 0.3rem; }
+
+.znr1 {
+  height: 22rem;
+  margin-top: 1.5rem !important;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr1 .znr1-1 {
+    width: 100%;
+    height: 17rem;
+    text-align: center; }
+    .znr1 .znr1-1 input {
+      width: 20rem;
+      height: 3rem;
+      border-radius: 0.3rem;
+      border: none;
+      margin-top: 1.4rem;
+      font-size: 1.2rem;
+      border: 1px solid #cacaca; }
+      .znr1 .znr1-1 input input::-webkit-input-placeholder {
+        color: red; }
+    .znr1 .znr1-1 button {
+      width: 20rem;
+      height: 3rem;
+      border-radius: 0.3rem;
+      border: none;
+      margin-top: 1rem;
+      background: #FEB605;
+      color: white;
+      font-size: 1.2rem;
+      letter-spacing: 0.3rem; }
+
+.znr2 {
+  height: 17rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr2 ul {
+    width: 100%;
+    height: 10rem; }
+    .znr2 ul li {
+      width: 25%;
+      height: 100%;
+      float: left;
+      text-align: center; }
+      .znr2 ul li img {
+        width: 80%; }
+      .znr2 ul li p {
+        font-size: 1rem;
+        font-weight: 900; }
+      .znr2 ul li button {
+        width: 4.5rem;
+        height: 1.5rem;
+        font-size: 1rem;
+        margin-top: 1rem;
+        color: white;
+        background: #39C893;
+        border: none;
+        border-radius: 0.2rem; }
+  .znr2 .znr2-1 {
+    margin-left: 0.9rem;
+    border-bottom-left-radius: 0.3rem;
+    border-top-left-radius: 0.3rem;
+    margin-top: 0.5rem; }
+  .znr2 .znr2-2 {
+    border-bottom-right-radius: 0.3rem;
+    border-top-right-radius: 0.3rem;
+    margin-top: 0.5rem; }
+
+.znr3 {
+  height: 43rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr3 ul {
+    width: 92%;
+    height: 80%;
+    margin: 0 auto; }
+    .znr3 ul .li1 {
+      width: 100%;
+      height: 15rem;
+      float: left; }
+      .znr3 ul .li1 img {
+        width: 100%;
+        height: 100%; }
+    .znr3 ul .li2 {
+      width: 48.7%;
+      height: 10rem;
+      float: left;
+      margin-top: 0.5rem; }
+      .znr3 ul .li2 img {
+        width: 100%;
+        height: 100%; }
+
+.znr4 {
+  height: 30rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr4 .znr4-1 {
+    width: 92%;
+    height: 20rem;
+    margin: 0 auto; }
+    .znr4 .znr4-1 img {
+      width: 100%;
+      height: 100%; }
+  .znr4 .znr4-2 {
+    width: 92%;
+    height: 2.5rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    font-size: 1.2rem; }
+    .znr4 .znr4-2 button {
+      width: 6rem;
+      height: 1.5rem;
+      border: none;
+      background: #39C894;
+      border-radius: 0.3rem;
+      color: white;
+      letter-spacing: 0.25rem;
+      margin-left: 1rem;
+      font-size: 0.7rem;
+      text-align: center; }
+
+.znr5 {
+  height: 35rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr5 ul {
+    width: 100%;
+    height: 21rem; }
+    .znr5 ul li {
+      width: 92%;
+      height: 33.33333%;
+      padding-bottom: 1.5rem;
+      margin: 0 auto; }
+      .znr5 ul li .znr5-1 {
+        width: 35%;
+        float: left;
+        height: 100%; }
+        .znr5 ul li .znr5-1 img {
+          width: 100%;
+          height: 100%; }
+      .znr5 ul li .znr5-2 {
+        width: 60%;
+        float: right;
+        height: 100%; }
+        .znr5 ul li .znr5-2 p {
+          font-size: 1.3rem; }
+        .znr5 ul li .znr5-2 span {
+          margin-top: 0.5rem;
+          display: inline-block; }
+        .znr5 ul li .znr5-2 .span1 {
+          font-size: 1rem; }
+        .znr5 ul li .znr5-2 .span2 {
+          font-size: 1rem;
+          margin-left: -0.3rem; }
+        .znr5 ul li .znr5-2 .span3 {
+          font-size: 1.3rem;
+          margin-left: 0.5rem; }
+
+.znr6 {
+  height: 11rem; }
+  .znr6 div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 1.2rem; }
+    .znr6 div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+
+footer {
+  width: 100%;
+  height: 6rem;
+  margin-top: 0.8rem;
+  text-align: center;
+  border-top: 0.7rem solid #f4f4f4;
+  padding-top: 1rem; }
+  footer div {
+    width: 100%;
+    height: 2rem; }
+    footer div p {
+      float: left;
+      margin-left: 5.5rem;
+      color: #39C893;
+      margin-top: 0.1rem; }
+    footer div span {
+      font-size: 1.1rem;
+      float: left; }
+  footer ul {
+    width: 100%;
+    height: 4rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 1.1rem; }
+
+.boxx {
+  width: 100%;
+  margin-top: 0.8rem; }
+  .boxx .p1 {
+    float: left;
+    height: 2rem;
+    line-height: 2rem;
+    border-left: 0.3rem solid #3CC995;
+    font-size: 1.3rem;
+    letter-spacing: 0.3rem;
+    margin-left: 1rem;
+    text-align: center;
+    width: 7rem; }
+  .boxx span {
+    margin-left: 0.2rem;
+    line-height: 2.4rem;
+    color: #999;
+    font-size: 0.8rem; }
+
+.aa {
+  width: 46%;
+  height: 2.5rem;
+  border: 1px solid #cacaca;
+  float: left;
+  color: #39C893;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .aa span {
+    color: #39C893;
+    float: left;
+    font-size: 1rem; }
+    .aa span p {
+      float: right;
+      margin-left: 0.5rem;
+      font-size: 1rem; }
+
+.aa-1 {
+  margin-left: 0.9rem;
+  border-bottom-left-radius: 0.3rem;
+  border-top-left-radius: 0.3rem;
+  margin-top: 0.5rem; }
+
+.aa-2 {
+  border-bottom-right-radius: 0.3rem;
+  border-top-right-radius: 0.3rem;
+  margin-top: 0.5rem; }
+
+.mb {
+  width: 100%;
+  height: 6rem;
+  background: black;
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9); }
+  .mb .img1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2.5rem;
+    height: 2.5rem; }
+  .mb .img2 {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 2rem;
+    margin-top: 1rem; }
+  .mb .p1 {
+    color: #eed215;
+    position: absolute;
+    top: 1.5rem;
+    left: 6rem;
+    font-size: 1.2rem; }
+  .mb .p2 {
+    color: white;
+    position: absolute;
+    top: 2.9rem;
+    left: 5rem;
+    font-size: 1.3rem; }
+  .mb button {
+    width: 6rem;
+    height: 2rem;
+    background: #feb605;
+    border: none;
+    border-radius: 0.8rem;
+    position: absolute;
+    top: 2rem;
+    right: 0.5rem;
+    color: white;
+    font-size: 0.7rem; }
+
+/*# sourceMappingURL=new_file.css.map */

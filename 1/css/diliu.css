@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.toubu {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .toubu div:nth-of-type(1) {
+    font-size: 0.45rem;
+    margin: 0.3rem 0; }
+    .toubu div:nth-of-type(1) .icon-back {
+      font-size: 0.45rem;
+      color: #989898;
+      margin-left: 0.2rem; }
+  .toubu div:nth-of-type(2) {
+    text-align: center; }
+    .toubu div:nth-of-type(2) p {
+      font-size: 0.36rem; }
+  .toubu div:nth-of-type(3) {
+    text-align: center;
+    font-size: 0.24rem;
+    margin-right: 0.2rem;
+    color: #999999; }
+    .toubu div:nth-of-type(3) .icon-nav {
+      font-size: 0.24rem; }
+    .toubu div:nth-of-type(3) p {
+      font-size: 0.21rem;
+      margin-top: 0.1rem; }
+
+.beijing {
+  width: 100%;
+  height: 1.04rem;
+  background: #202020; }
+
+.datu {
+  width: 100%;
+  background: #202020; }
+  .datu img {
+    width: 100%;
+    height: 100%; }
+
+.circle {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #38ca94;
+  background: #202020; }
+  .circle p {
+    padding: 0.1rem;
+    width: 0.45rem;
+    height: 0.45rem;
+    border-radius: 50%;
+    border: 2px solid #38ca94; }
+  .circle p:hover {
+    background: #38ca94; }
+
+.circle1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 0.28rem;
+  color: #38ca94;
+  background: #202020; }
+  .circle1 span {
+    color: #202020;
+    float: left;
+    margin-bottom: 0.7rem;
+     }
+
+.wenzhang {
+  text-indent: 1.5em;
+  width: 100%;
+  font-size: 0.28rem;
+  background: #202020;
+  color: white;
+  display: flex; }
+  .wenzhang p {
+    margin: 0.2rem;
+    padding: 0.2rem; }
+
+.article {
+  text-indent: 1.5em;
+  width: 100%;
+  font-size: 0.28rem; }
+  .article p {
+    margin: 0.2rem;
+    padding: 0.2rem;  }
+
+.tel {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.28rem;
+  margin: 0.2rem 0; }
+  .tel .icon-hot-line {
+    color: #48CD9B;
+    font-size: 0.28rem; }
+
+.tiao {
+  width: 100%;
+  height: 0.2rem;
+  background: #F4F4F4; }
+
+footer {
+  width: 100%;
+  height: 1rem;
+  margin-top: -1.7rem;
+  text-align: center;
+  padding-top: 1rem; }
+  footer ul {
+    width: 100%;
+    height: 1rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 14px; }
+
+/*# sourceMappingURL=05.css.map */

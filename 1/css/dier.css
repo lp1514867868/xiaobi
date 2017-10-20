@@ -1,0 +1,282 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header #div1{
+	width: 100%;
+	height: 3.75rem;
+	background-color: #39C893;
+}
+header #div1 img {
+	width: 3.5rem;.
+	height: 3.5rem;
+	margin-left: 1.25rem;
+	margin-top: 0.15rem;
+}
+header #div1 h3{
+	font-size: 1rem;
+	margin-left: 5.78rem;
+	margin-top: -3.5rem;
+}
+header #div1 #diva1{
+	border-radius: 1.56rem;
+	width: 15rem;
+	height: 1.25rem;
+	background-color: #2bb280;
+	margin-left: 5.78rem;
+	margin-top: 0.4rem;
+}
+header #div1 #diva1 h6 {
+	color: white;
+	margin-left: 0.4rem;
+}
+header #div1 #diva1 p {
+	color: #cccc33;
+	margin-left: 9rem;
+	margin-top: -1.1rem;
+}
+header #div1 .a{
+	width: 0.78rem;
+	height: 0.78rem;
+	float: left;
+	margin-left: 23rem;
+	margin-top: -3rem;
+}
+#div2{
+	width: 22.3rem;
+	height: 2.18rem;
+	border: 2px solid #39C894;
+	margin-left: 1.125rem;
+	margin-top: 0.06rem;
+}
+#div2 p {
+	font-size: 0.88rem;
+	color: #aaa;
+	margin-left: 0.4rem;
+	margin-top: 0.55rem;
+}
+#diva2{
+	width: 4.3rem;
+	height: 2.2rem;
+	background-color: #39C894;
+	float: left;
+	margin-left: 18.1rem;
+	margin-top: -1.75rem;
+}
+#diva2 p {
+	color: white;
+	margin-left: 1.34rem;
+	margin-top: 0.6rem;
+}
+#div3 {
+	width: 100%;
+	height: 0.5rem;
+	background-color: #CACACA;
+	margin-top: 0.625rem;
+}
+#div4> ul {
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            list-style: none;
+            text-align: center;
+            background: #fff;
+            padding-top: 0rem;
+            margin: 0;
+        }
+        #div4 > ul > li {
+           width: 25%;
+           padding: 0.78rem;
+        }
+        #div4 > ul > li #diva4{
+        	width: 7.5rem;
+        	height: 0.1rem;
+        	background-color: #39C894;
+        	float: left;
+        	margin-top: 1rem;
+        }
+        #div4 > ul > li img{
+        	width: 3.28rem;
+        	height: 3.28rem;
+        }
+        #div5{
+            width: 22.25rem;
+            height: 2.1875rem;
+            border: 1px solid #39C894;	
+            margin-left: 1.125rem;
+        }
+        #div5 p {
+        	color: #39C894;
+        	margin-top: 0.4rem;
+        	margin-left: 8.3rem;
+        }
+        
+        .znr5boxx {
+  height: 35rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .znr5 ul {
+    width: 100%;
+    height: 21rem; }
+    .znr5 ul li {
+      width: 92%;
+      height: 33.33333%;
+      padding-bottom: 1.5rem;
+      margin: 0 auto; }
+      .znr5 ul li .znr5-1 {
+        width: 35%;
+        float: left;
+        height: 100%; }
+        .znr5 ul li .znr5-1 img {
+          width: 100%;
+          height: 100%; }
+      .znr5 ul li .znr5-2 {
+        width: 60%;
+        float: right;
+        height: 100%; }
+        .znr5 ul li .znr5-2 p {
+          font-size: 1.3rem; }
+        .znr5 ul li .znr5-2 span {
+          margin-top: 0.5rem;
+          display: inline-block; }
+        .znr5 ul li .znr5-2 .span1 {
+          font-size: 1rem; }
+        .znr5 ul li .znr5-2 .span2 {
+          font-size: 1rem;
+          margin-left: -0.3rem; }
+        .znr5 ul li .znr5-2 .span3 {
+          font-size: 1.3rem;
+          margin-left: 0.5rem; }
+          
+        #div7{
+        	width: 100%;
+        	height: 0.5rem;
+        	background-color: #E8E8E8;
+        	margin-top: 11rem;
+        }
+.znr6 {
+  height: 9rem; }
+  .znr6 div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 0rem; }
+    .znr6 div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+
+footer {
+  width: 100%;
+  height: 6rem;
+  margin-top: 0.8rem;
+  text-align: center;
+  border-top: 0.7rem solid #f4f4f4;
+  padding-top: 1rem; }
+  footer div {
+    width: 100%;
+    height: 2rem; }
+    footer div p {
+      float: left;
+      margin-left: 5.5rem;
+      color: #39C893;
+      margin-top: 0.1rem; }
+    footer div span {
+      font-size: 1.1rem;
+      float: left; }
+  footer ul {
+    width: 100%;
+    height: 4rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 1.1rem; }
+
+.boxx {
+  width: 100%;
+  margin-top: 0.8rem; }
+  .boxx .p1 {
+    float: left;
+    height: 2rem;
+    line-height: 2rem;
+    border-left: 0.3rem solid #3CC995;
+    font-size: 1.3rem;
+    letter-spacing: 0.3rem;
+    margin-left: 1rem;
+    text-align: center;
+    width: 7rem; }
+  .boxx span {
+    margin-left: 0.2rem;
+    line-height: 2.4rem;
+    color: #999;
+    font-size: 0.8rem; }
+
+.aa {
+  width: 92%;
+  height: 2.5rem;
+  border: 1px solid #cacaca;
+  float: left;
+  color: #39C893;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .aa span {
+    color: #39C893;
+    float: left;
+    font-size: 1rem; }
+    .aa span p {
+      float: right;
+      margin-left: 0.5rem;
+      font-size: 1rem; }
+
+.aa-1 {
+  margin-left: 0.9rem;
+  border-bottom-left-radius: 0.3rem;
+  border-top-left-radius: 0.3rem;
+  margin-top: 0.5rem; }
+
+.mb {
+  width: 100%;
+  height: 6rem;
+  background: black;
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9); }
+  .mb .img1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2.5rem;
+    height: 2.5rem; }
+  .mb .img2 {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 2rem;
+    margin-top: 1rem; }
+  .mb .p1 {
+    color: #eed215;
+    position: absolute;
+    top: 1.5rem;
+    left: 6rem;
+    font-size: 1.2rem; }
+  .mb .p2 {
+    color: white;
+    position: absolute;
+    top: 2.9rem;
+    left: 5rem;
+    font-size: 1.3rem; }
+  .mb button {
+    width: 6rem;
+    height: 2rem;
+    background: #feb605;
+    border: none;
+    border-radius: 0.8rem;
+    position: absolute;
+    top: 2rem;
+    right: 0.5rem;
+    color: white;
+    font-size: 0.7rem; }

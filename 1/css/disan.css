@@ -1,0 +1,246 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+header {
+  width: 100%;
+  display: flex;
+  height: 1.2rem;
+  justify-content: space-between; }
+  header .head1 {
+    width: 30%;
+    height: 0.8rem; }
+    header .head1 img {
+      width: 100%;
+      height: 0.8rem;
+      margin-top: 0.16rem;
+      margin-bottom: 0.16rem;
+      margin-left: 0.18rem; }
+  header .head2 {
+    width: 35%;
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.36rem;
+    margin-top: 0.16rem;
+    margin-bottom: 0.16rem; }
+  header .head3 {
+    width: 30%;
+    display: flex;
+    font-size: 0.22rem;
+    margin-top: 0.16rem;
+    margin-bottom: 0.16rem;
+    justify-content: space-around; }
+    header .head3 .head3-1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: #999999; }
+      header .head3 .head3-1 span {
+        font-size: 0.45rem; }
+      header .head3 .head3-1 p {
+        font-size: 0.22rem; }
+
+.Box0 {
+  width: 100%;
+  display: flex;
+  flex-direction: column; }
+  .Box0 img {
+    width: 100%;
+    height: 100%; }
+
+.Box1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.05rem; }
+  .Box1 img {
+    width: 100%;
+    height: 100%; }
+  .Box1 .Box1-1 {
+    position: absolute;
+    top: 39px;
+    left: 101px;
+    font-size: 0.36rem;
+    color: #FF4350; }
+  .Box1 .Box1-2 {
+    position: absolute;
+    top: 193px;
+    left: 176px;
+    font-size: 0.28rem; }
+  .Box1 .Box1-3 {
+    position: absolute;
+    top: 353px;
+    right: 185px;
+    font-size: 0.28rem; }
+  .Box1 .Box1-4 {
+    position: absolute;
+    bottom: 311px;
+    left: 176px;
+    font-size: 0.28rem; }
+  .Box1 .Box1-5 {
+    position: absolute;
+    bottom: 152px;
+    right: 176px;
+    font-size: 0.28rem; }
+
+.Box2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.05rem; }
+  .Box2 img {
+    width: 100%;
+    height: 100%; }
+  .Box2 .Box1-1 {
+    position: absolute;
+    top: 39px;
+    right: 101px;
+    font-size: 0.36rem;
+    color: #60B6F7; }
+  .Box2 .Box1-2 {
+    position: absolute;
+    top: 205px;
+    right: 176px;
+    font-size: 0.28rem; }
+  .Box2 .Box1-3 {
+    position: absolute;
+    top: 370px;
+    left: 185px;
+    font-size: 0.28rem; }
+  .Box2 .Box1-4 {
+    position: absolute;
+    bottom: 330px;
+    right: 176px;
+    font-size: 0.28rem; }
+  .Box2 .Box1-5 {
+    position: absolute;
+    bottom: 165px;
+    left: 176px;
+    font-size: 0.28rem; }
+
+.Box3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.05rem; }
+  .Box3 img {
+    width: 100%;
+    height: 100%; }
+  .Box3 .Box1-1 {
+    position: absolute;
+    top: 39px;
+    left: 101px;
+    font-size: 0.36rem;
+    color: #7F79EA; }
+  .Box3 .Box1-2 {
+    position: absolute;
+    top: 193px;
+    left: 176px;
+    font-size: 0.28rem; }
+  .Box3 .Box1-3 {
+    position: absolute;
+    top: 353px;
+    right: 185px;
+    font-size: 0.28rem; }
+  .Box3 .Box1-4 {
+    position: absolute;
+    bottom: 404px;
+    left: 176px;
+    font-size: 0.28rem; }
+  .Box3 .Box1-5 {
+    position: absolute;
+    bottom: 249px;
+    right: 176px;
+    font-size: 0.28rem; }
+
+.gray {
+  height: 0.2rem;
+  background: #f4f4f4;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem; }
+
+.box9 {
+  width: 100%;
+  margin: 0 auto; }
+  .box9 div {
+    width: 100%;
+    display: flex; }
+    .box9 div p {
+      margin: 0.2rem;
+      font-size: 0.28rem;
+      text-indent: 0.57rem;
+      line-height: 0.52rem; }
+
+footer {
+  width: 100%;
+  margin-top: 0.3rem;
+  text-align: center; }
+  footer div {
+    width: 100%;
+    height: 0.94rem;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    footer div .footer-p {
+      font-size: 0.45rem;
+      color: #39C894; }
+    footer div span {
+      font-size: 0.28rem; }
+  footer ul {
+    width: 100%;
+    height: 0.5rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      font-size: 0.32rem; }
+    footer ul li:nth-of-type(1) {
+      color: #39C893; }
+
+.mb {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.9);
+  height: 1.06rem; }
+  .mb .img1 {
+    position: absolute;
+    top: 0rem;
+    left: 0;
+    width: 0.35rem;
+    height: 0.35rem; }
+  .mb .img2 {
+    width: 1.06rem;
+    height: 1.06rem;
+    margin-right: 0.3rem; }
+  .mb div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; }
+    .mb div p:nth-of-type(1) {
+      font-size: 0.32rem;
+      color: #DFC716; }
+    .mb div p:nth-of-type(2) {
+      font-size: 0.32rem;
+      color: white; }
+  .mb button {
+    width: 1.75rem;
+    height: 0.5rem;
+    background: #feb605;
+    border: none;
+    border-radius: 0.8rem;
+    color: white;
+    margin-left: 0.2rem;
+    font-size: 0.24rem; }
+
+.h106 {
+  height: 1.06rem; }
+
+/*# sourceMappingURL=three.css.map */
